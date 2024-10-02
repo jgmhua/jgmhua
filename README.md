@@ -13,7 +13,7 @@ Also, I love collaborating, so please feel free to reach out for any project col
 📫 You can reach me: 
 - here!
 - through my email: jhua@live.ca or jesshua.notsnailmail@gmail.com,
-- or through my [LinkedIn:](www.linkedin.com/in/jessica-gm-hua).
+- or through my [LinkedIn](www.linkedin.com/in/jessica-gm-hua).
 
 
 
