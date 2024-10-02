@@ -10,6 +10,7 @@ Currently, I am:
 Feel free to checkout my repos and contact me for access to any of them! 
 
 Also, I love collaborating, so please feel free to reach out for any project collaboration! 😊
+
 📫 You can reach me: 
 - here!
 - through my email: jhua@live.ca or jesshua.notsnailmail@gmail.com,
