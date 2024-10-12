@@ -3,6 +3,8 @@
 My name is Jessica Hua, a beginner software developer with a passion for biomedical engineering and creating things with electronics.
 This profile was created so I could keep a record of my projects and share my progress/work as I develop my skills and explore/attempt different projects! 
 
+To find out more, checkout my portfolio at [https://jessicahua.netlify.app/](https://jessicahua.netlify.app/) 
+
 Currently, I am:
 - continuing to work on Companionate; a skills-sharing platform/app that was my capstone project for the [Software Engineering boot camp at BrainStation](https://brainstation.io/online/software-engineering-bootcamp)
 - starting up a new project (deciding between 2 projects at the moment!)
