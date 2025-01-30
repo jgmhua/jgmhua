@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-My name is Jessica Hua, a beginner software developer with a passion for biomedical engineering and creating things with electronics.
-This profile was created so I could keep a record of my projects and share my progress/work as I develop my skills and explore/attempt different projects! 
+My name is Jessica Hua, a junior software developer who recently transitioned from a background in biomedical engineering. I still have a passion for working on meaningful/helpful projects and for creating things with electronics.
+This profile was created so I could keep a record of my projects and share my progress/work as I continue to develop my skills and explore/attempt new and different projects! 
 
 To find out more, checkout my portfolio at [https://jessicahua.netlify.app/](https://jessicahua.netlify.app/) 
 
