@@ -6,7 +6,7 @@ This profile was created so I could keep a record of my projects and share my pr
 To find out more, checkout my portfolio at [https://jessicahua.netlify.app/](https://jessicahua.netlify.app/) 
 
 Currently, I am:
-- working on Concert Buddy with [Jenani](https://github.com/jenaniu) 
+- working on Concert Buddy with my awesome friend and former colleague [Jenani](https://github.com/jenaniu), 
 - continuing to work on Companionate; a skills-sharing platform/app that was my capstone project for the [Software Engineering boot camp at BrainStation](https://brainstation.io/online/software-engineering-bootcamp)
 
 Feel free to contact me for access to any of my repos! 
