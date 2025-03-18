@@ -6,6 +6,7 @@ This profile was created so I could keep a record of my projects and share my pr
 To find out more, checkout my portfolio at [https://jessicahua.netlify.app/](https://jessicahua.netlify.app/) 
 
 Currently, I am:
+- a founding developer for Nomad, a social media platform for digital nomads - working on this with a few of my amazing colleagues [Serena](https://github.com/sereennaa), Laura, [Andrea](https://github.com/andreaholstein), [Savannah](https://github.com/savannahmartin), Khushi, [Rebecca](https://github.com/shortcircuits94), Gena, Rintaro
 - working on Concert Buddy with my awesome friend and former colleague [Jenani](https://github.com/jenaniu), 
 - continuing to work on Companionate; a skills-sharing platform/app that was my capstone project for the [Software Engineering boot camp at BrainStation](https://brainstation.io/online/software-engineering-bootcamp)
 
